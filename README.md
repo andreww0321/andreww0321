@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Andrew and I am a double major in Computer Science and Media and Communication.
+### Hi there 👋 My name is Andrew White and I am a double major in Computer Science and Media and Communication at Muhlenberg College.
 
 <!--
 **andreww0321/andreww0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
