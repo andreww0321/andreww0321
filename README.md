@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Andrew White and I am a double major in Computer Science and Media and Communication at Muhlenberg College.
+### Hi there 👋 My name is Andrew White and I am a specialist in website development. I graduated from Muhlenberg College in May 2025 with a Bachelor's of Science. I double majored in Computer Science and Media and Communication with a minor in Statistics. This GitHub contains my past and present projects, and these projects allow me to continue learning each and every day.
 
 <!--
 **andreww0321/andreww0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
